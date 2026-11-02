@@ -1,0 +1,31 @@
+{
+    "name": "Noname.OneUp.PageManager",
+    "rootNamespace": "",
+    "references": [
+        "Noname.OneUp.EventManager",
+        "Noname.OneUp.Singleton",
+        "Noname.OneUp.Audio",
+        "DOTween.Modules",
+        "UnityEngine.UI"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "noname-oneup-dotween",
+            "expression": "",
+            "define": "ONEUP_DOTWEEN"
+        },
+        {
+            "name": "noname-oneup-audio",
+            "expression": "",
+            "define": "ONEUP_AUDIO"
+        }
+    ],
+    "noEngineReferences": false
+}

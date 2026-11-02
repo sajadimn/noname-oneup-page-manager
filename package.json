@@ -1,0 +1,38 @@
+{
+  "name": "noname-oneup-page-manager",
+  "displayName": "Page Manager",
+  "version": "1.0.0",
+  "unity": "2021.3",
+  "license": "Copyright (c) Noname.OneUp All rights reserved. ",
+  "type": "Tools",
+  "category": "Utilities",
+  "description": "This package contains the page manager for full pages and popups, with a back stack and an optional popup animation and sound.",
+  "dependencies": {
+    "com.unity.ugui": "2.0.0"
+  },
+  "gitDependencies": {
+    "noname-oneup-event-manager": "https://github.com/sajadimn/noname-oneup-event-manager.git"
+  },
+  "samples": [],
+  "hideInEditor": true,
+  "keywords": [
+    "Noname",
+    "OneUp",
+    "PageManager",
+    "Page",
+    "PopUp",
+    "UI"
+  ],
+  "author": {
+    "name": "OneUp",
+    "email": "imani.sajad92@gmail.com",
+    "url": "https://github.com/sajadimn"
+  },
+  "repository": {
+    "url": "https://github.com/sajadimn/noname-oneup-page-manager.git",
+    "type": "git"
+  },
+  "publishConfig": {
+    "registry": "https://github.com/sajadimn/noname-oneup-page-manager"
+  }
+}
